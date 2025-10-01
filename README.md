@@ -17,4 +17,5 @@
 
 > "If you need to collaborate on your code, Git is the best system out there. Its fast. Its distributive. It does everything." -Linus Torvalds
 
-![git](/iso-markdown1/img/git.png)
+
+![git](C:\Users\jmmmb\OneDrive\Escritorio\ISO\Documentacion Tecnica\iso-markdown1\img\git.png)
